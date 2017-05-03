@@ -1,5 +1,4 @@
-# Text Mining to Find Interactions between Political Contributions and
-Political Speech
+# Text Mining to Find Interactions between Political Contributions and Political Speech
 ## Senior Project by Lincoln Swaine-Moore
 
 This repository contains the code demonstrating the way in which I
